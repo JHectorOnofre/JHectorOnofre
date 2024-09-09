@@ -3,8 +3,8 @@
 ```js
 const JHectorOnofre {
   pronouns: "he" | "his",
-  code: [Java, JavaScript, HTML, CSS],
-  tools: [SpringBoot, React, Node.js],
+  code: [Python, Java, JavaScript x Node.js],
+  tools: []
 }
 ```
 
@@ -12,7 +12,7 @@ const JHectorOnofre {
 **JHectorOnofre/JHectorOnofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on create my personal branding 💻
-- 🌱 I’m currently learning Java & Spring Boot 
-- ⚡ Fun fact: My favorites are the owls 🦉
+- 🔭 I love software development areas, turning creativity into technically efficient solutions is a tech superpower  💻
+- 🌱 I’m currently working with Python and Java 
+- ⚡ Fun fact: My love Owls 🦉
 -->
